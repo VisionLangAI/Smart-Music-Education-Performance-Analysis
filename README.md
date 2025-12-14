@@ -47,11 +47,9 @@ data/
   dataset2.csv
 ```
 
-Your target column (default) is:
+ target column is:
 
 - `Performance_Score`
-
-If your target has a different name, pass `--target YOUR_COLUMN`.
 
 ---
 
